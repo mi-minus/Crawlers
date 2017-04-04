@@ -1,0 +1,970 @@
+  <!DOCTYPE html>
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<meta name="description" content="sina">
+<meta name="viewport" content="initial-scale=1,maximum-scale=1,user-scalable=no">
+<link rel="shortcut icon" href="images/favicon.ico" type="image/x-icon">
+<meta name="format-detection" content="telephone=no">
+<title>考研 - 微博搜索 </title>
+<script src='http://js.t.sinajs.cn/t4/apps/search_m/js/base.js'></script>
+<link href="http://img.t.sinajs.cn/t4/appstyle/searchV45_m/css/common.css?version=20161207120500" type="text/css" rel="stylesheet" charset="utf-8" />
+<script type="text/javascript">
+ var $CONFIG = {};
+  $CONFIG['islogin'] = '1';
+ $CONFIG['uid'] = '3872583788';
+ $CONFIG['nick'] = '11122山顶上';
+ $CONFIG['domain'] = '3872583788';
+ $CONFIG['watermark'] = 'u/3872583788';
+ $CONFIG['prov'] = '61:陕西';
+ $CONFIG['city'] = '1:西安';
+  $CONFIG['setCover'] = 1; //ie6hack
+ $CONFIG['version'] = '20161207120500';
+ $CONFIG['bigpipe'] = 'false';
+ $CONFIG['timeDiff'] = (new Date() - 1481365758000);
+ $CONFIG['product'] = 'search';
+ $CONFIG['pageid'] = 'weibo';
+ $CONFIG['skin'] = '';
+ $CONFIG['lang'] = 'zh-cn';
+ $CONFIG['jsPath'] = 'http://js.t.sinajs.cn/t4/';
+ $CONFIG['cssPath'] = 'http://img.t.sinajs.cn/t4/';
+ $CONFIG['imgPath'] = 'http://img.t.sinajs.cn/t4/';
+ $CONFIG['servertime'] = 1481365758;
+ $CONFIG['ad_url_jump'] = '';
+  $CONFIG['bpType'] = 'main';
+  $CONFIG['$webim'] = 1;
+ $CONFIG['mJsPath'] = ['http://js{n}.t.sinajs.cn/t4/', 1, 2];
+ $CONFIG['mCssPath'] = ['http://img{n}.t.sinajs.cn/t4/', 1, 2];
+ $CONFIG['s_domain'] = 'http://s.weibo.com';
+ $CONFIG['s_search'] = '%25E8%2580%2583%25E7%25A0%2594';
+ </script></head>
+<body class="S_mobile_weibo">
+<div class="sina_mb"><div id="pl_searchHead">
+  <div class="head">
+ <div class="nav">
+ <a href="/" class="logo">微博搜索</a>
+ <nav>
+	<a href="/weibo/%25E8%2580%2583%25E7%25A0%2594" class="cur" ><span>综合</span></a>
+	<a href="/user/%25E8%2580%2583%25E7%25A0%2594" ><span>用户</span></a>
+	<a href="/weibo/%25E8%2580%2583%25E7%25A0%2594?xsort=hot" ><span>精选</span></a>
+	<a href="/list/relpage?search=%25E8%2580%2583%25E7%25A0%2594&web_link=1" ><span>文章</span></a>
+	<a href="/weibo/%25E8%2580%2583%25E7%25A0%2594?hasvideo=1" ><span>视频</span></a>
+ </nav>
+ <a href="http://weibo.com" class="home"><i>首页</i></a>
+ </div>
+ <div class="search">
+ 	<form action="#">
+ <input type="search" class="search_input" maxlength="40" node-type = 'searchText' autocomplete="off" value="考研" />
+	<i class="icon_search" node-type="searchBtn"></i>
+ </form>
+ </div>
+ <div class="search_list" node-type="suglist"></div>
+</div>
+</div><div class="mb_ser_bd">
+  <div id="plc_main">
+  <div id="pl_common_pinyinerr"></div>
+<div id="pl_mobile_weibo_directtop" class="clearfix"><div class="card item_more_refrash" action-type="getNew" action-data="rd=newTips&key=考研" node-type="newBar" style="display:none">
+	<div class="content">
+	<span><a href="javascript:void(0);" action-type="page_forward" action-data="path=http://s.weibo.com%2Fweibo%2F%E8%80%83%E7%A0%94&rd=newTips" node-type="feed_list_newBar">有 20 条新微博，点击查看</a></span>
+	</div>
+</div>
+<!-- 用户直达 -->
+<!-- 相关用户 -->
+ <!-- 15:相关用户7:好友1:找人 -->
+<div class="card item_weibo_imagewall" action-type="page_forward" action-data="path=http://s.weibo.com%2Ffriend%2Fcommon%3Fsearch%3D%E8%80%83%E7%A0%94">
+ <div class="tit_s">相关用户</div>
+ <div class="con">
+ <div class="s_weibo">
+ <div class="blk5"></div>
+ <div class="clearfix">
+ <div class="content">
+ <div style="width:100%; overflow:hidden;">
+ <ul class="pic_lst clearfix pic_lst_user" node-type="pic_lst_user" style="width:5000px; overflow:hidden; position:relative; padding-bottom:5px;">
+ <li><a href="javascript:void(0);" class="relative"><img src="http://tva4.sinaimg.cn/crop.0.0.750.750.180/005xsbBjjw8f7fi2d205rj30ku0kuwf1.jpg"></a><a href="javascript:void(0);" class="name">2017考研交流</a><!-- a href="#" class="name">2017考研交...</a--></li>
+ <li><a href="javascript:void(0);" class="relative"><img src="http://tva4.sinaimg.cn/crop.65.0.181.181.180/4138cd7egw1e8ve7bzlv0j208c053jrl.jpg"></a><a href="javascript:void(0);" class="name">考研</a><!-- a href="#" class="name">考研</a--></li>
+ <li><a href="javascript:void(0);" class="relative"><img src="http://tva3.sinaimg.cn/crop.0.0.180.180.180/60e002e9jw1e8qgp5bmzyj2050050aa8.jpg"></a><a href="javascript:void(0);" class="name">考研站</a><!-- a href="#" class="name">考研站</a--></li>
+ <li><a href="javascript:void(0);" class="relative"><img src="http://tva3.sinaimg.cn/crop.16.13.167.167.180/6a8f2679jw8f83ku4xjz0j205k05kjru.jpg"><i class="icon_vip icon_vip_b"></i></a><a href="javascript:void(0);" class="name">考研帮_原考研网</a><!-- a href="#" class="name">考研帮_原...</a--></li>
+ <li><a href="javascript:void(0);" class="relative"><img src="http://tva2.sinaimg.cn/crop.0.2.750.750.180/7ab38b28jw8f0k94ozq7jj20ku0kyq3g.jpg"><i class="icon_vip icon_goldv"></i></a><a href="javascript:void(0);" class="name">宇哥考研</a></li>
+ <li><a href="javascript:void(0);" class="relative"><img src="http://tva3.sinaimg.cn/crop.0.0.580.580.180/6ff0b281jw1enkteoarfkj20g50g50wh.jpg"><i class="icon_vip icon_vip_b"></i></a><a href="javascript:void(0);" class="name">考研论坛</a></li>
+ <li><a href="javascript:void(0);" class="relative"><img src="http://tva2.sinaimg.cn/crop.0.0.180.180.180/6f4a598fjw1e8qgp5bmzyj2050050aa8.jpg"></a><a href="javascript:void(0);" class="name">考研直通车</a></li>
+ <li><a href="javascript:void(0);" class="relative"><img src="http://tva3.sinaimg.cn/crop.14.0.384.384.180/64a2c369gw1elw9bl4envj20b40b4jrv.jpg"></a><a href="javascript:void(0);" class="name">考研动态</a></li>
+ <li><a href="javascript:void(0);" class="relative"><img src="http://tva2.sinaimg.cn/crop.0.0.180.180.180/896d6fafjw1e8qgp5bmzyj2050050aa8.jpg"><i class="icon_vip icon_vip_b"></i></a><a href="javascript:void(0);" class="name">考研圈</a></li>
+ <li><a href="javascript:void(0);" class="relative"><img src="http://tva2.sinaimg.cn/crop.0.179.1877.1877.180/426aa8bfjw8f13r8k7mbvj21kw2dce81.jpg"><i class="icon_vip icon_goldv"></i></a><a href="javascript:void(0);" class="name">商志考研英语</a></li>
+ <li><a href="javascript:void(0);" class="relative"><img src="http://tva4.sinaimg.cn/crop.0.3.750.750.180/005QHDRvjw8f6gk7vre5kj30ku0l1glw.jpg"><i class="icon_vip icon_goldv"></i></a><a href="javascript:void(0);" class="name">考虫考研萌酱</a></li>
+ <li><a href="javascript:void(0);" class="relative"><img src="http://tva4.sinaimg.cn/crop.0.0.180.180.180/67ca0c63jw8es5xsnmvvyj2050050aa2.jpg"><i class="icon_vip icon_vip_y"></i></a><a href="javascript:void(0);" class="name">每日考研笔记</a></li>
+ <li><a href="javascript:void(0);" class="relative"><img src="http://tva4.sinaimg.cn/crop.0.0.580.580.180/853216bbjw1enkpzro2ykj20g50g5gnl.jpg"><i class="icon_vip icon_vip_b"></i></a><a href="javascript:void(0);" class="name">考研资料下载中心</a></li>
+ <li><a href="javascript:void(0);" class="relative"><img src="http://tva4.sinaimg.cn/crop.0.0.179.179.180/8cf39ecejw1eax91rvrz9j2050050aaf.jpg"><i class="icon_vip icon_vip_b"></i></a><a href="javascript:void(0);" class="name">中国教育在线考研频道</a></li>
+ <li><a href="javascript:void(0);" class="relative"><img src="http://tva3.sinaimg.cn/crop.0.0.438.438.180/0063m2C8jw8f1zwbqwcb3j30c60c6q2x.jpg"></a><a href="javascript:void(0);" class="name">考研猎人</a></li>
+ <li><a href="javascript:void(0);" class="relative"><img src="http://tva2.sinaimg.cn/crop.1.1.179.179.180/7fd30f2fjw8eu26dtsr4yj2050050dfw.jpg"><i class="icon_vip icon_vip_b"></i></a><a href="javascript:void(0);" class="name">新东方在线考研</a></li>
+ <li><a href="javascript:void(0);" class="relative"><img src="http://tva1.sinaimg.cn/crop.0.0.180.180.180/8e0259aejw1e8qgp5bmzyj2050050aa8.jpg"></a><a href="javascript:void(0);" class="name">考研邦</a></li>
+ <li><a href="javascript:void(0);" class="relative"><img src="http://tva3.sinaimg.cn/crop.0.0.200.200.180/005KkoB5jw8etazmjurttj305k05kwef.jpg"></a><a href="javascript:void(0);" class="name">考研资源库</a></li>
+ <li><a href="javascript:void(0);" class="relative"><img src="http://tva4.sinaimg.cn/crop.11.2.981.981.180/89113534jw8f96ng293tnj20ry0rctfj.jpg"><i class="icon_vip icon_goldv"></i></a><a href="javascript:void(0);" class="name">文艺君考研</a></li>
+ <li><a href="javascript:void(0);" class="relative"><img src="http://tva1.sinaimg.cn/crop.0.0.180.180.180/6619ab2cjw1e8qgp5bmzyj2050050aa8.jpg"><i class="icon_vip icon_vip_b"></i></a><a href="javascript:void(0);" class="name">考研资料分享者网</a></li>
+ <li><a href="javascript:void(0);" class="relative"><img src="http://tva4.sinaimg.cn/crop.16.19.148.148.180/eb7d172etw1ebwy20of53j205005074h.jpg"></a><a href="javascript:void(0);" class="name">考研资料下载吧</a></li>
+ </ul>
+ </div>
+ <div><i class="icon_arrow_r"></i></div>
+ </div>
+ </div>
+ </div>
+ </div>
+ </div>
+ <!-- 图谱热门 -->
+<!-- 图谱好友 -->
+<!-- 大家印象 -->
+<!-- 相关评价 -->
+<!-- 相关图片 -->
+</div>
+<div id="pl_mobile_weibo_direct" class="clearfix">
+<div class="tit clearfix">
+ <!-- <a href="javascript:void(0);" class="selected_r" node-type = "filter">筛选<i class="icon_arrow"></i></a> -->
+ <div class="tit_s">搜索到7826万条相关微博</div>
+</div>
+ 
+ <!-- 热门微博 -->
+ <!-- 
+	 	<div class="card item_more_refrash" action-type="getNew" action-data="rd=newTips&key=考研" node-type="newBar" style="display:none">
+	 <div class="content">
+	 <span><a href="javascript:void(0);" action-type="page_forward" action-data="path=http://s.weibo.com%2Fweibo%2F%E8%80%83%E7%A0%94&rd=newTips" node-type="feed_list_newBar">有 20 条新微博，点击查看</a></span>
+	 </div>
+	</div>
+	 -->
+ <div class="card item_weibo" action-data="mid=ElcHMvEv2&uid=5044281310" action-type = "feed_list_item">
+ <div class="tit_tag"><i class="icon_tag_select">精选</i></div> <div class="con">
+ <div class="s_weibo" action-type = "feed_list_con">
+ <div class="blk5"></div>
+ <div class="clearfix">
+ <div class="fl w_user_img"><img src="http://tva3.sinaimg.cn/crop.0.0.299.299.50/005vnhZYgw1ehsl3xhv75j308c08cq32.jpg"><i class="icon_vip_s icon_vip_b "></i></div>
+ <div class="content">
+ <p class="tit_m">
+ 澎湃新闻 <a href="javascript:void(0);" class="member"><i class="icon_member"></i></a>
+ </p>
+ <p class="time"><span>12月8日 22:20</span><span>来自<a target="_blank" href="http://app.weibo.com/t/feed/6vtZb0" rel="nofollow">微博 weibo.com</a></span></p>
+ </div>
+ </div>
+ <div class="blk5"></div>
+ <p>【山东淄博一优秀毕业生放弃<em class="red">考研</em>乞讨救母：真没法，不在乎非议】<a href="http://t.cn/RIhawmw" class="tag_link"><i class="icon_link"></i>澎湃新闻的秒</a> “有妈才有家，山理学子弃考救母。” 11月30日到12月7日，山东理工大学大四学生刘大利每天举着牌子在淄博张店区义乌小商品城门口募捐。11月6日，得知母亲患上急性淋巴细胞白血病后，他决定放弃已准备一年的研究生考</p>
+ <ul class="piclist" node-type="feed_list_piclist">
+ 	 	 	 	 <li>
+	 	 <!--视频-->
+	 	 	 <div class="media_box spec_video_a">
+	 <div>
+	 <!-- style="width:100%;max-width:30rem;max-height:30rem;" -->
+	 <video src="http://gslb.miaopai.com/stream/0F8Rr2p54~6v-DYO~Qr0~Q__.mp4?yx=&refer=weibo_app" poster="http://lxqncdn.miaopai.com/stream/0F8Rr2p54~6v-DYO~Qr0~Q___m.jpg" preload="metadata" controls="controls" action-type="media_video"></video>
+	 <!--<a class="icon_play" action-type="media_video_play"></a>
+	 -->
+	 </div>	 
+	 </div>
+	 	 	 	 </li>
+ </ul> 	 </div>
+ <div class="feeds clearfix">
+ <span><a href="javascript:void(0);" action-type="feed_list_forward"><i class="icon_forward" ></i>561<em class="line"></em></a></span>
+ <span><a href="javascript:void(0);" action-type="feed_list_comment"><i class="icon_review" ></i>531<em class="line"></em></a></span>
+ <span><a href="javascript:void(0);" action-type="feed_list_like" action-data="mid=4050537307543852"><i class="icon_like" ></i>566</a></span>
+ </div>
+ </div>
+</div>
+ <div class="card item_more more_weibo" action-type="page_forward" action-data="path=%2Fweibo%2F%E8%80%83%E7%A0%94%26xsort%3Dhot"> 
+ <div class="content">
+ <span><a href="javascript:void(0);">查看更多精选微博</a></span>
+ </div>
+ </div><!-- 热门微博 -->
+ <!-- 关注人的微博-->
+ <div node-type="feed_list">
+ <div class="card item_weibo" action-data="mid=EllJWB42G&uid=1938302413" action-type = "feed_list_item">
+ <div class="tit_tag"><i class="icon_tag_follow">关注人</i></div> <div class="con">
+ <div class="s_weibo" action-type = "feed_list_con">
+ <div class="blk5"></div>
+ <div class="clearfix">
+ <div class="fl w_user_img"><img src="http://tva2.sinaimg.cn/crop.0.0.1080.1080.50/738825cdjw8erkrgc6dlgj20u00u0n05.jpg"><i class="icon_vip_s icon_vip_y "></i></div>
+ <div class="content">
+ <p class="tit_m">
+ 刘琦老师 <a href="javascript:void(0);" class="member"><i class="icon_member"></i></a>
+ </p>
+ <p class="time"><span>12月9日 21:20</span><span>来自<a target="_blank" target="_blank" href="http://app.weibo.com/t/feed/5yiHuw" rel="nofollow">iPhone 6 Plus</a></span></p>
+ </div>
+ </div>
+ <div class="blk5"></div>
+ <p>纪念线上<em class="red">考研</em>阅读刷题班走过的这一年！线上授课到线下微信群答疑，这一路也是满满刷完了20年考研阅读的所有题。至今日，全部结班。立帖留念。谢谢大家一年的信任与陪伴！唯一念想，考完后，来我这小聚报分，也让我分享你们成功的喜悦！祝大家好！</p>
+ <ul class="piclist" node-type="feed_list_piclist">
+ 	 <li>
+	 	 	 <!-- 九宫格 -->
+	 <!-- <div class="s_pic" style="width: 256px;"> -->
+	 <div class="media_box image_wall clearfix ">
+	 <ul>
+	 	 <li><img src="http://ww2.sinaimg.cn/thumb180/738825cdgw1fakqh4sqj6j20hs0b9ta7.jpg" action-type="showLargePic" action-data="ratio=1.5802469135802&pic_large=http://ww2.sinaimg.cn/large/738825cdgw1fakqh4sqj6j20hs0b9ta7.jpg"></li>
+	 	 <li><img src="http://ww1.sinaimg.cn/thumb180/738825cdgw1fakqh4a9w6j20hs0b9wg0.jpg" action-type="showLargePic" action-data="ratio=1.5802469135802&pic_large=http://ww1.sinaimg.cn/large/738825cdgw1fakqh4a9w6j20hs0b9wg0.jpg"></li>
+	 	 <li><img src="http://ww3.sinaimg.cn/thumb180/738825cdgw1fakqh57xepj20hs0b975u.jpg" action-type="showLargePic" action-data="ratio=1.5802469135802&pic_large=http://ww3.sinaimg.cn/large/738825cdgw1fakqh57xepj20hs0b975u.jpg"></li>
+	 	 <li><img src="http://ww1.sinaimg.cn/thumb180/738825cdgw1fakqh5e9gtj20hs0b9jst.jpg" action-type="showLargePic" action-data="ratio=1.5802469135802&pic_large=http://ww1.sinaimg.cn/large/738825cdgw1fakqh5e9gtj20hs0b9jst.jpg"></li>
+	 	 <li><img src="http://ww3.sinaimg.cn/thumb180/738825cdgw1fakqh5j4vsj20hs0b9myj.jpg" action-type="showLargePic" action-data="ratio=1.5802469135802&pic_large=http://ww3.sinaimg.cn/large/738825cdgw1fakqh5j4vsj20hs0b9myj.jpg"></li>
+	 	 <li><img src="http://ww4.sinaimg.cn/thumb180/738825cdgw1fakqkvjr55j20qo1bgtd0.jpg" action-type="showLargePic" action-data="ratio=0.56206088992974&pic_large=http://ww4.sinaimg.cn/large/738825cdgw1fakqkvjr55j20qo1bgtd0.jpg"></li>
+	 	 <li><img src="http://ww4.sinaimg.cn/thumb180/738825cdgw1fakqkzhbmij20qo1bg42j.jpg" action-type="showLargePic" action-data="ratio=0.56206088992974&pic_large=http://ww4.sinaimg.cn/large/738825cdgw1fakqkzhbmij20qo1bg42j.jpg"></li>
+	 	 <li><img src="http://ww1.sinaimg.cn/thumb180/738825cdgw1fakqkzsci7j20qo1bgjvd.jpg" action-type="showLargePic" action-data="ratio=0.56206088992974&pic_large=http://ww1.sinaimg.cn/large/738825cdgw1fakqkzsci7j20qo1bgjvd.jpg"></li>
+	 	 <li><img src="http://ww3.sinaimg.cn/thumb180/738825cdgw1fakql0fke5j20qo1bgtdv.jpg" action-type="showLargePic" action-data="ratio=0.56206088992974&pic_large=http://ww3.sinaimg.cn/large/738825cdgw1fakql0fke5j20qo1bgtdv.jpg"></li>
+	 	 </ul>
+	 </div>
+	 <!-- /九宫格 --> 
+	 	 </li>
+ </ul> 	 </div>
+ <div class="feeds clearfix">
+ <span><a href="javascript:void(0);" action-type="feed_list_forward"><i class="icon_forward" ></i>转发<em class="line"></em></a></span>
+ <span><a href="javascript:void(0);" action-type="feed_list_comment"><i class="icon_review" ></i>2<em class="line"></em></a></span>
+ <span><a href="javascript:void(0);" action-type="feed_list_like" action-data="mid=4050884608833678"><i class="icon_like" ></i>18</a></span>
+ </div>
+ <div class="feeds_more" action-type="page_forward" action-data="path=http://s.weibo.com%2Flist%2Ffeedlist%3Fsearch%3D%E8%80%83%E7%A0%94%26me%3D1%26atten%3D1%26page%3D1"> 
+ <a href="javascript:void(0);">查看更多关注人微博</a>
+ </div>
+ </div>
+</div>
+ </div>
+ <!-- 相关网页 -->
+ <div class="card item_weibo">
+ <div class="tit_s">热门文章</div>
+ <div class="item_web " action-type="page_forward" action-data="path=http://weibo.com/ttarticle/p/show?id=2309404049644207371164" jump_url="http://weibo.com/ttarticle/p/show?id=2309404049644207371164">
+ 	 <div class="s_weibo title_focus">
+	 <h1>2017年考研数学最后一个月怎么复习</h1>
+	 <a href="http://weibo.com/ttarticle/p/show?id=2309404049644207371164"><img src="http://simg.s.weibo.com/gs3_3973651062827022405.jpg"></a>
+	 </div>
+	 </div>
+ <div class="item_web " action-type="page_forward" action-data="path=http://weibo.com/ttarticle/p/show?id=2309404049017024704553" jump_url="http://weibo.com/ttarticle/p/show?id=2309404049017024704553">
+ <div class="s_weibo">
+ <div class="blk5"></div>
+ <div class="clearfix web_result">
+ <div class="fl w_user_img"><a href="javascript:void(0);"><img src="http://simg.s.weibo.com/gs1_16661332305528876861.jpg"></a></div> <div class="content">
+ <p class="tit_b"><a href="http://weibo.com/ttarticle/p/show?id=2309404049017024704553" suda-data="key=tblog_search_v5&value=direct_url_title:1:2">
+ 2018商志考研英语词汇考点逐词精讲（十九） 
+ </a></p>
+ <p class="time">@商志考研英语<span>&nbsp;&nbsp;&nbsp;12月4日 </span></p>
+ </div>
+ </div>
+ </div>
+ </div>
+ <div class="item_web last" action-type="page_forward" action-data="path=http://weibo.com/ttarticle/p/show?id=2309404047115687983065" jump_url="http://weibo.com/ttarticle/p/show?id=2309404047115687983065">
+ <div class="s_weibo">
+ <div class="blk5"></div>
+ <div class="clearfix web_result">
+ <div class="fl w_user_img"><a href="javascript:void(0);"><img src="http://simg.s.weibo.com/gs1_6715378023940684724.jpg"></a></div> <div class="content">
+ <p class="tit_b"><a href="http://weibo.com/ttarticle/p/show?id=2309404047115687983065" suda-data="key=tblog_search_v5&value=direct_url_title:1:3">
+ 商志考研英语传奇作文之社会问题类主题素材 
+ </a></p>
+ <p class="time">@商志考研英语<span>&nbsp;&nbsp;&nbsp;11月29日 </span></p>
+ </div>
+ </div>
+ </div>
+ </div>
+ <div class="feeds_more"><a href="javascript:void(0);" action-type="page_forward" action-data="path=http://s.weibo.com%2Flist%2Frelpage%3Fsearch%3D%E8%80%83%E7%A0%94">更多热门文章</a></div>
+ </div> <!-- 相关网页 -->
+ <!-- 实时微博 -->
+ 	 	 	 <div node-type="refresh_feed">
+ <!---->
+	 <div class="card item_weibo" action-data="mid=Elu2tDfWI&uid=5790532668" action-type = "feed_list_item">
+ <div class="con">
+ <div class="s_weibo" action-type = "feed_list_con">
+ <div class="blk5"></div>
+ <div class="clearfix">
+ <div class="fl w_user_img"><img src="http://tva4.sinaimg.cn/crop.0.0.996.996.50/006jSu4cjw8f8i9sxn0xbj30ro0rp76q.jpg"></div>
+ <div class="content">
+ <p class="tit_m">
+ 挖坑的白白 
+ </p>
+ <p class="time"><span>2分钟前</span><span>来自<a target="_blank" target="_blank" href="http://app.weibo.com/t/feed/5Nu7MV" rel="nofollow">华为P9手机摄影再突破</a></span></p>
+ </div>
+ </div>
+ <div class="blk5"></div>
+ <p>大宝贝儿生日快乐啊<img src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/50/pcmoren_huaixiao_org.png" title="[坏笑]" alt="[坏笑]" type="face" /><em class="red">考研</em>一定顺利，因为我昨天做梦了，然后看周公解梦了<img src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/19/heia_org.gif" title="[偷笑]" alt="[偷笑]" type="face" /><img src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/19/heia_org.gif" title="[偷笑]" alt="[偷笑]" type="face" /><img src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/19/heia_org.gif" title="[偷笑]" alt="[偷笑]" type="face" />哈哈哈<a href="http://m.weibo.cn/n/%E8%83%A1%E7%AC%9B%E7%AC%9B%E4%B8%8D%E6%98%AF%E8%BF%AA" usercard="name=胡笛笛不是迪&refer_flag=1001030001" suda-data="key=tblog_search_weibo&value=weibo_feed_at" target="_blank">@胡笛笛不是迪</a></p>
+ <ul class="piclist" node-type="feed_list_piclist">
+ 	 <li>
+	 	 	 <!-- 九宫格 -->
+	 <!-- <div class="s_pic" style="width: 256px;"> -->
+	 <div class="media_box image_wall clearfix ">
+	 <ul>
+	 	 <li><img src="http://ww1.sinaimg.cn/thumb180/006jSu4cly1falvf1031fj30hs0nqwgo0.jpg" action-type="showLargePic" action-data="ratio=0.74941451990632&pic_large=http://ww1.sinaimg.cn/large/006jSu4cly1falvf1031fj30hs0nqwgo0.jpg"></li>
+	 	 <li><img src="http://ww1.sinaimg.cn/thumb180/006jSu4cly1falvf1dm3sj30hs0o9dgo0.jpg" action-type="showLargePic" action-data="ratio=0.73310423825888&pic_large=http://ww1.sinaimg.cn/large/006jSu4cly1falvf1dm3sj30hs0o9dgo0.jpg"></li>
+	 	 <li><img src="http://ww4.sinaimg.cn/thumb180/006jSu4cly1falvf1xd1zj30hs0hs7630.jpg" action-type="showLargePic" action-data="ratio=1&pic_large=http://ww4.sinaimg.cn/large/006jSu4cly1falvf1xd1zj30hs0hs7630.jpg"></li>
+	 	 </ul>
+	 </div>
+	 <!-- /九宫格 --> 
+	 	 </li>
+ </ul> 	 </div>
+ <div class="feeds clearfix">
+ <span><a href="javascript:void(0);" action-type="feed_list_forward"><i class="icon_forward" ></i>转发<em class="line"></em></a></span>
+ <span><a href="javascript:void(0);" action-type="feed_list_comment"><i class="icon_review" ></i>评论<em class="line"></em></a></span>
+ <span><a href="javascript:void(0);" action-type="feed_list_like" action-data="mid=4051203619356092"><i class="icon_like" ></i>赞</a></span>
+ </div>
+ </div>
+</div>
+<div class="card item_weibo" action-data="mid=EltRbCNbQ&uid=5261263846" action-type = "feed_list_item">
+ <div class="con">
+ <div class="s_weibo" action-type = "feed_list_con">
+ <div class="blk5"></div>
+ <div class="clearfix">
+ <div class="fl w_user_img"><img src="http://tva4.sinaimg.cn/crop.0.0.1024.1024.50/005K3J4ijw8ex0nyxgqwoj30sg0sgmy5.jpg"><i class="icon_vip_s icon_vip_b "></i></div>
+ <div class="content">
+ <p class="tit_m">
+ 微课堂 <a href="javascript:void(0);" class="member"><i class="icon_member"></i></a>
+ </p>
+ <p class="time"><span>30分钟前</span><span>来自<a target="_blank" href="http://app.weibo.com/t/feed/6vtZb0" rel="nofollow">微博 weibo.com</a></span></p>
+ </div>
+ </div>
+ <div class="blk5"></div>
+ <p>【暖心漫画：<em class="red">考研</em>党的日常<img src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/40/hearta_org.gif" title="[心]" alt="[心]" type="face" />】又是一年考研时，距离考试仅剩2周，考研路上的人们，都在过着怎样的生活？这组漫画，你是否深受感触？拼搏过就不后悔，奋斗过的考研一族，奔赴考场便是勇士！@ 身边的考研党，为TA加油打气！(图/刘昱阳)</p>
+ <ul class="piclist" node-type="feed_list_piclist">
+ 	 <li>
+	 	 	 <!-- 九宫格 -->
+	 <!-- <div class="s_pic" style="width: 256px;"> -->
+	 <div class="media_box image_wall clearfix ">
+	 <ul>
+	 	 <li><img src="http://ww1.sinaimg.cn/thumb180/005K3J4ijw1fakmjwds0xj30c80rzq4c.jpg" action-type="showLargePic" action-data="ratio=0.4369414101291&pic_large=http://ww1.sinaimg.cn/large/005K3J4ijw1fakmjwds0xj30c80rzq4c.jpg"></li>
+	 	 <li><img src="http://ww4.sinaimg.cn/thumb180/005K3J4ijw1fakmjx0c5fj30c80ps0u1.jpg" action-type="showLargePic" action-data="ratio=0.47413793103448&pic_large=http://ww4.sinaimg.cn/large/005K3J4ijw1fakmjx0c5fj30c80ps0u1.jpg"></li>
+	 	 <li><img src="http://ww1.sinaimg.cn/thumb180/005K3J4ijw1fakmjxmcybj30c80qlmys.jpg" action-type="showLargePic" action-data="ratio=0.45977011494253&pic_large=http://ww1.sinaimg.cn/large/005K3J4ijw1fakmjxmcybj30c80qlmys.jpg"></li>
+	 	 <li><img src="http://ww2.sinaimg.cn/thumb180/005K3J4ijw1fakmjy8ddgj308t0m8wfp.jpg" action-type="showLargePic" action-data="ratio=0.39625&pic_large=http://ww2.sinaimg.cn/large/005K3J4ijw1fakmjy8ddgj308t0m8wfp.jpg"></li>
+	 	 <li><img src="http://ww3.sinaimg.cn/thumb180/005K3J4ijw1fakmjytrvzj30c806twej.jpg" action-type="showLargePic" action-data="ratio=1.7959183673469&pic_large=http://ww3.sinaimg.cn/large/005K3J4ijw1fakmjytrvzj30c806twej.jpg"></li>
+	 	 <li><img src="http://ww3.sinaimg.cn/thumb180/005K3J4ijw1fakmjzihs1j308r0m8dgx.jpg" action-type="showLargePic" action-data="ratio=0.39375&pic_large=http://ww3.sinaimg.cn/large/005K3J4ijw1fakmjzihs1j308r0m8dgx.jpg"></li>
+	 	 <li><img src="http://ww1.sinaimg.cn/thumb180/005K3J4ijw1fakmk05acbj308n0m8q47.jpg" action-type="showLargePic" action-data="ratio=0.38875&pic_large=http://ww1.sinaimg.cn/large/005K3J4ijw1fakmk05acbj308n0m8q47.jpg"></li>
+	 	 <li><img src="http://ww2.sinaimg.cn/thumb180/005K3J4ijw1fakmk0qnqqj308t0m875k.jpg" action-type="showLargePic" action-data="ratio=0.39625&pic_large=http://ww2.sinaimg.cn/large/005K3J4ijw1fakmk0qnqqj308t0m875k.jpg"></li>
+	 	 <li><img src="http://ww2.sinaimg.cn/thumb180/005K3J4ijw1fakmk1d32aj308g0m83ze.jpg" action-type="showLargePic" action-data="ratio=0.38&pic_large=http://ww2.sinaimg.cn/large/005K3J4ijw1fakmk1d32aj308g0m83ze.jpg"></li>
+	 	 </ul>
+	 </div>
+	 <!-- /九宫格 --> 
+	 	 </li>
+ </ul> 	 </div>
+ 	<div class="feed_transpond">
+ <div class="transpond_detail">
+ 	 <div class="transpond_text" action-type="feed_list_item_agg" action-data="mid=EltVnEvKA&uid=2138624472" suda-data="key=tblog_search_weibo&value=weibo_ss_0_zf_0_time">
+ <a title="麻糍2012" href="http://weibo.com/u/2138624472" usercard="name=麻糍2012" suda-data="key=tblog_search_weibo&value=weibo_ss_0_zf_0_name">麻糍2012<i class="icon_member"></i>：</a>
+ <span>早晨6点图书馆前排起长龙的队伍深刻的印在脑海里，那时，天还是漆黑一片，祝今年的<em class="red"><em class="red">考研</em></em>党付出与收获成正比～～<a href="http://m.weibo.cn/n/%E9%9C%B8%E9%81%93%E6%80%BB%E8%A3%81%E7%88%B1%E5%96%B5%E5%96%B5" usercard="name=霸道总裁爱喵喵&refer_flag=1001030001" suda-data="key=tblog_search_weibo&value=weibo_feed_at" target="_blank">@霸道总裁爱喵喵</a></span>
+ </div>
+ <div class="transpond_text" action-type="feed_list_item_agg" action-data="mid=EltUOquJA&uid=2328825402" suda-data="key=tblog_search_weibo&value=weibo_ss_1_zf_1_time">
+ <a title="上海对外经贸大学研究生会" href="http://weibo.com/u/2328825402" usercard="name=上海对外经贸大学研究生会" suda-data="key=tblog_search_weibo&value=weibo_ss_1_zf_1_name">上海对外经贸大学研究生会<i class="icon_member"></i>：</a>
+ <span>奔赴考场已是勇士<img src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/70/vw_org.gif" title="[威武]" alt="[威武]" type="face" />，<a href="http://m.weibo.cn/n/%E6%89%80%E6%9C%89%E8%B4%B8%E5%A4%A7%E8%80%83%E7%A0%94%E5%B0%8F%E4%BC%99%E4%BC%B4" usercard="name=所有贸大考研小伙伴&refer_flag=1001030001" suda-data="key=tblog_search_weibo&value=weibo_feed_at" target="_blank">@所有贸大<em class="red"><em class="red">考研</em></em>小伙伴</a><img src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/f2/wg_org.gif" title="[围观]" alt="[围观]" type="face" />！</span>
+ </div>
+ </div> 
+ </div>
+ <div class="feeds clearfix">
+ <span><a href="javascript:void(0);" action-type="feed_list_forward"><i class="icon_forward" ></i>12<em class="line"></em></a></span>
+ <span><a href="javascript:void(0);" action-type="feed_list_comment"><i class="icon_review" ></i>5<em class="line"></em></a></span>
+ <span><a href="javascript:void(0);" action-type="feed_list_like" action-data="mid=4051196619245554"><i class="icon_like" ></i>31</a></span>
+ </div>
+ </div>
+</div>
+<div class="card item_weibo" action-data="mid=EltgE6Ok9&uid=5546379268" action-type = "feed_list_item">
+ <div class="con">
+ <div class="s_weibo" action-type = "feed_list_con">
+ <div class="blk5"></div>
+ <div class="clearfix">
+ <div class="fl w_user_img"><img src="http://tva3.sinaimg.cn/crop.0.0.438.438.50/0063m2C8jw8f1zwbqwcb3j30c60c6q2x.jpg"></div>
+ <div class="content">
+ <p class="tit_m">
+ 考研猎人 <a href="javascript:void(0);" class="member"><i class="icon_member"></i></a>
+ </p>
+ <p class="time"><span>今天 16:30</span><span>来自<a target="_blank" href="http://app.weibo.com/t/feed/3auC5p" rel="nofollow">皮皮时光机</a></span></p>
+ </div>
+ </div>
+ <div class="blk5"></div>
+ <p>【肖八预测毛中特18个分析题考点浓缩】冲刺时间宝贵如金，分析题复习需快马加鞭！现从肖八中提取18个毛中特分析题考点浓缩，句句如金。戳图速斩毛中特分析题via应试宝<em class="red">考研</em> <a class="a_topic W_linkb" href="http://huati.weibo.com/k/%E8%80%83%E7%A0%94?from=526"suda-data="key=tblog_search_weibo&value=weibo_feed_topic">#考研#</a></p>
+ <ul class="piclist" node-type="feed_list_piclist">
+ 	 <li>
+	 	 	 <!-- 九宫格 -->
+	 <!-- <div class="s_pic" style="width: 256px;"> -->
+	 <div class="media_box image_wall clearfix ">
+	 <ul>
+	 	 <li><img src="http://ww3.sinaimg.cn/thumb180/005KkoB5gw1fakwngq5t2j30c80p577g.jpg" action-type="showLargePic" action-data="ratio=0.48618784530387&pic_large=http://ww3.sinaimg.cn/large/005KkoB5gw1fakwngq5t2j30c80p577g.jpg"></li>
+	 	 <li><img src="http://ww2.sinaimg.cn/thumb180/005KkoB5gw1fakwnpvplgj30c8111q94.jpg" action-type="showLargePic" action-data="ratio=0.33008252063016&pic_large=http://ww2.sinaimg.cn/large/005KkoB5gw1fakwnpvplgj30c8111q94.jpg"></li>
+	 	 <li><img src="http://ww1.sinaimg.cn/thumb180/005KkoB5gw1fakwnzl34mj30c812sn4i.jpg" action-type="showLargePic" action-data="ratio=0.31518624641834&pic_large=http://ww1.sinaimg.cn/large/005KkoB5gw1fakwnzl34mj30c812sn4i.jpg"></li>
+	 	 <li><img src="http://ww1.sinaimg.cn/thumb180/005KkoB5gw1fakwos2nnsj30c80zfgr6.jpg" action-type="showLargePic" action-data="ratio=0.34509803921569&pic_large=http://ww1.sinaimg.cn/large/005KkoB5gw1fakwos2nnsj30c80zfgr6.jpg"></li>
+	 	 <li><img src="http://ww1.sinaimg.cn/thumb180/005KkoB5gw1fakwoz38o5j30c80c8abi.jpg" action-type="showLargePic" action-data="ratio=1&pic_large=http://ww1.sinaimg.cn/large/005KkoB5gw1fakwoz38o5j30c80c8abi.jpg"></li>
+	 	 <li><img src="http://ww3.sinaimg.cn/thumb180/005KkoB5gw1fakwqbodvaj30c80xiwk2.jpg" action-type="showLargePic" action-data="ratio=0.36484245439469&pic_large=http://ww3.sinaimg.cn/large/005KkoB5gw1fakwqbodvaj30c80xiwk2.jpg"></li>
+	 	 <li><img src="http://ww2.sinaimg.cn/thumb180/005KkoB5gw1fakwqmdn6ej30c810rag6.jpg" action-type="showLargePic" action-data="ratio=0.33257747543462&pic_large=http://ww2.sinaimg.cn/large/005KkoB5gw1fakwqmdn6ej30c810rag6.jpg"></li>
+	 	 <li><img src="http://ww4.sinaimg.cn/thumb180/005KkoB5gw1fakwqugtdjj30c818kjz8.jpg" action-type="showLargePic" action-data="ratio=0.27431421446384&pic_large=http://ww4.sinaimg.cn/large/005KkoB5gw1fakwqugtdjj30c818kjz8.jpg"></li>
+	 	 <li><img src="http://ww1.sinaimg.cn/thumb180/005KkoB5gw1fakwr541foj30c814m45c.jpg" action-type="showLargePic" action-data="ratio=0.30095759233926&pic_large=http://ww1.sinaimg.cn/large/005KkoB5gw1fakwr541foj30c814m45c.jpg"></li>
+	 	 </ul>
+	 </div>
+	 <!-- /九宫格 --> 
+	 	 </li>
+ </ul> 	 </div>
+ <div class="feeds clearfix">
+ <span><a href="javascript:void(0);" action-type="feed_list_forward"><i class="icon_forward" ></i>239<em class="line"></em></a></span>
+ <span><a href="javascript:void(0);" action-type="feed_list_comment"><i class="icon_review" ></i>17<em class="line"></em></a></span>
+ <span><a href="javascript:void(0);" action-type="feed_list_like" action-data="mid=4051173961623417"><i class="icon_like" ></i>210</a></span>
+ </div>
+ </div>
+</div>
+<div class="card item_weibo" action-data="mid=Elu2a579X&uid=3802692982" action-type = "feed_list_item">
+ <div class="con">
+ <div class="s_weibo" action-type = "feed_list_con">
+ <div class="blk5"></div>
+ <div class="clearfix">
+ <div class="fl w_user_img"><img src="http://tva4.sinaimg.cn/crop.0.0.996.996.50/e2a87d76jw8fae2666oqzj20ro0roac6.jpg"></div>
+ <div class="content">
+ <p class="tit_m">
+ sususuye_ <a href="javascript:void(0);" class="member"><i class="icon_member"></i></a>
+ </p>
+ <p class="time"><span>3分钟前</span><span>来自<a target="_blank" target="_blank" href="http://app.weibo.com/t/feed/4Vdgl4" rel="nofollow">小米手机4</a></span></p>
+ </div>
+ </div>
+ <div class="blk5"></div>
+ <p>自习室座位旁边 是一个其他院不<em class="red">考研</em>的小仙女 不怎么来图书馆 所以 三个月一句话都没有说过 下午 小仙女来了之后突然送给了我一颗棉花糖<img src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/81/rabbit_org.gif" title="[兔子]" alt="[兔子]" type="face" /> ps:为了这颗棉花糖 专门下了美图软件 小仙女的棉花糖<img src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/81/rabbit_org.gif" title="[兔子]" alt="[兔子]" type="face" /></p>
+ <ul class="piclist" node-type="feed_list_piclist">
+ 	 <li>
+	 	 
+	 <div class="media_box image_wall clearfix image_wall_one">
+	 <ul><li>
+	 <img class="bigcursor"
+	 src="http://ww2.sinaimg.cn/bmiddle/e2a87d76jw1falve98s35j20qo0qotb7.jpg" action-type="showLargePic" action-data="ratio=1&pic_large=http://ww2.sinaimg.cn/bmiddle/e2a87d76jw1falve98s35j20qo0qotb7.jpg"/><img
+	 style="left: 39.5px; top: 52px; display: none;"
+	 src="http://img.t.sinajs.cn/t4/style/images/common/loading.gif"
+	 class="loading_gif" />
+	 </li></ul>
+	 </div>
+	 	 </li>
+ </ul> 	 </div>
+ <div class="feeds clearfix">
+ <span><a href="javascript:void(0);" action-type="feed_list_forward"><i class="icon_forward" ></i>转发<em class="line"></em></a></span>
+ <span><a href="javascript:void(0);" action-type="feed_list_comment"><i class="icon_review" ></i>评论<em class="line"></em></a></span>
+ <span><a href="javascript:void(0);" action-type="feed_list_like" action-data="mid=4051203421219165"><i class="icon_like" ></i>赞</a></span>
+ </div>
+ </div>
+</div>
+<div class="card item_weibo" action-data="mid=Elu23haPu&uid=2219030150" action-type = "feed_list_item">
+ <div class="con">
+ <div class="s_weibo" action-type = "feed_list_con">
+ <div class="blk5"></div>
+ <div class="clearfix">
+ <div class="fl w_user_img"><img src="http://tva2.sinaimg.cn/crop.0.0.996.996.50/8443b686jw8f27z3wl2ccj20ro0rptdc.jpg"><i class="icon_vip_s icon_daren "></i></div>
+ <div class="content">
+ <p class="tit_m">
+ 一跑了之 
+ </p>
+ <p class="time"><span>3分钟前</span><span>来自<a target="_blank" target="_blank" href="http://app.weibo.com/t/feed/4swE93" rel="nofollow">三星android智能手机</a></span></p>
+ </div>
+ </div>
+ <div class="blk5"></div>
+ <p>住了四年才发现，跟舍友生日隔了一天，于是今天折中去吃了顿迟到的生日饭<img src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/4a/mm_org.gif" title="[喵喵]" alt="[喵喵]" type="face" />不过看着周边的<em class="red">考研</em>同学好像慢慢奔溃<img src="http://img.t.sinajs.cn/t3/style/images/common/face/emimage/ee9088.png" width="20px" height="20px" />熬一熬吧再坚持一丢丢就好<img src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/74/moren_hashiqi_org.png" title="[二哈]" alt="[二哈]" type="face" /><img src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/74/moren_hashiqi_org.png" title="[二哈]" alt="[二哈]" type="face" /> </p>
+ <ul class="piclist" node-type="feed_list_piclist">
+ 	 <li>
+	 	 	 <!-- 九宫格 -->
+	 <!-- <div class="s_pic" style="width: 170px;"> -->
+	 <div class="media_box image_wall clearfix ">
+	 <ul>
+	 	 <li><img src="http://ww1.sinaimg.cn/thumb180/8443b686jw1falvalmnigj20zk0qo7b8.jpg" action-type="showLargePic" action-data="ratio=1.3333333333333&pic_large=http://ww1.sinaimg.cn/large/8443b686jw1falvalmnigj20zk0qo7b8.jpg"></li>
+	 	 <li><img src="http://ww2.sinaimg.cn/thumb180/8443b686jw1falvalxp5mj20xc0qogq2.jpg" action-type="showLargePic" action-data="ratio=1.25&pic_large=http://ww2.sinaimg.cn/large/8443b686jw1falvalxp5mj20xc0qogq2.jpg"></li>
+	 	 </ul>
+	 </div>
+	 <!-- /九宫格 --> 
+	 	 </li>
+ 	 	 	 	 <li>
+	 	 <span class="lbs">青岛·石油大学</span>
+	 <!--地理位置分享-->
+	 	 </li>
+ </ul> 	 </div>
+ <div class="feeds clearfix">
+ <span><a href="javascript:void(0);" action-type="feed_list_forward"><i class="icon_forward" ></i>转发<em class="line"></em></a></span>
+ <span><a href="javascript:void(0);" action-type="feed_list_comment"><i class="icon_review" ></i>评论<em class="line"></em></a></span>
+ <span><a href="javascript:void(0);" action-type="feed_list_like" action-data="mid=4051203354093208"><i class="icon_like" ></i>赞</a></span>
+ </div>
+ </div>
+</div>
+<div class="card item_weibo" action-data="mid=Elu1WwKnv&uid=6027564793" action-type = "feed_list_item">
+ <div class="con">
+ <div class="s_weibo" action-type = "feed_list_con">
+ <div class="blk5"></div>
+ <div class="clearfix">
+ <div class="fl w_user_img"><img src="http://tva2.sinaimg.cn/crop.0.0.996.996.50/006zV2WZjw8f8jjqir8caj30ro0rpmxp.jpg"></div>
+ <div class="content">
+ <p class="tit_m">
+ 赖床就去死 <a href="javascript:void(0);" class="member"><i class="icon_member"></i></a>
+ </p>
+ <p class="time"><span>3分钟前</span><span>来自<a target="_blank" target="_blank" href="http://weibo.com/" rel="nofollow">xyAndroid</a></span></p>
+ </div>
+ </div>
+ <div class="blk5"></div>
+ <p>好久好久好久不午睡了，<em class="red">考研</em>以来真的没有睡过午觉<img src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/09/pcmoren_tanshou_org.png" title="[摊手]" alt="[摊手]" type="face" />
+今天下午困的实在是睁不开眼而且又来了大姨妈，那就睡个三十分钟的午觉吧<img src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/09/pcmoren_tanshou_org.png" title="[摊手]" alt="[摊手]" type="face" />
+然而不睡不知道一睡吓一跳，睡到现在！！谁叫都不醒，定了两个闹钟我根本都没听见<img src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/09/pcmoren_tanshou_org.png" title="[摊手]" alt="[摊手]" type="face" />
+我感觉我睡死都没人知道<img src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/09/pcmoren_tanshou_org.png" title="[摊手]" alt="[摊手]" type="face" />
+恐怖的是我睡着的时候我能感觉到我在背书，</p>
+ 	 </div>
+ <div class="feeds clearfix">
+ <span><a href="javascript:void(0);" action-type="feed_list_forward"><i class="icon_forward" ></i>转发<em class="line"></em></a></span>
+ <span><a href="javascript:void(0);" action-type="feed_list_comment"><i class="icon_review" ></i>2<em class="line"></em></a></span>
+ <span><a href="javascript:void(0);" action-type="feed_list_like" action-data="mid=4051203287804777"><i class="icon_like" ></i>赞</a></span>
+ </div>
+ </div>
+</div>
+<div class="card item_weibo" action-data="mid=Elu1nDKdz&uid=5601566306" action-type = "feed_list_item">
+ <div class="con">
+ <div class="s_weibo" action-type = "feed_list_con">
+ <div class="blk5"></div>
+ <div class="clearfix">
+ <div class="fl w_user_img"><img src="http://tva4.sinaimg.cn/crop.0.0.996.996.50/00675BhEjw8fajgw8o2y4j30ro0rpmz3.jpg"></div>
+ <div class="content">
+ <p class="tit_m">
+ Veranevvv 
+ </p>
+ <p class="time"><span>5分钟前</span><span>来自<a target="_blank" target="_blank" href="http://weibo.com/" rel="nofollow">Android</a></span></p>
+ </div>
+ </div>
+ <div class="blk5"></div>
+ <p>每次带上一本小说到图书馆 打算累的时候看一看 结果每次都没时间翻一眼 不是说 “大四不<em class="red">考研</em> 天天像过年”吗 一点没感觉到</p>
+ 	 </div>
+ <div class="feeds clearfix">
+ <span><a href="javascript:void(0);" action-type="feed_list_forward"><i class="icon_forward" ></i>转发<em class="line"></em></a></span>
+ <span><a href="javascript:void(0);" action-type="feed_list_comment"><i class="icon_review" ></i>评论<em class="line"></em></a></span>
+ <span><a href="javascript:void(0);" action-type="feed_list_like" action-data="mid=4051202939472457"><i class="icon_like" ></i>赞</a></span>
+ </div>
+ </div>
+</div>
+<div class="card item_weibo" action-data="mid=EltZCA7qB&uid=3848437449" action-type = "feed_list_item">
+ <div class="con">
+ <div class="s_weibo" action-type = "feed_list_con">
+ <div class="blk5"></div>
+ <div class="clearfix">
+ <div class="fl w_user_img"><img src="http://tva4.sinaimg.cn/crop.0.0.512.512.50/e5627ec9jw8ev9dofe60aj20e80e8gmd.jpg"><i class="icon_vip_s icon_goldv "></i></div>
+ <div class="content">
+ <p class="tit_m">
+ 考研资料分享君 <a href="javascript:void(0);" class="member"><i class="icon_member"></i></a>
+ </p>
+ <p class="time"><span>9分钟前</span><span>来自<a target="_blank" href="http://app.weibo.com/t/feed/PBP2P" rel="nofollow">微博 weibo.com</a></span></p>
+ </div>
+ </div>
+ <div class="blk5"></div>
+ <p>发布了头条文章：《【必看】2017<em class="red">考研</em>初试试卷信封拆分与密封详细步骤》 </p>
+ <ul class="piclist" node-type="feed_list_piclist">
+ 	 	 	 	 <li>
+	 	 	 <div class="media_box spec_pic_a">
+	 	<a href="http://weibo.com/ttarticle/p/show?id=2309404051201846044328">
+	 	<div>
+	 	<img src="http://ww2.sinaimg.cn/crop.0.0.578.324.1000/e5627ec9gw1falv7ofaqkj20g20baaab.jpg">
+	 	<i class="icon_flash"></i>
+	 	<span>考研资料分享君</span>
+	 	</div>
+	 	<h1>【必看】2017考研初试试卷信封拆分与密封详细步骤</h1>
+	 	</a>
+	 </div>
+	 	 	 </li>
+ </ul> 	 </div>
+ <div class="feeds clearfix">
+ <span><a href="javascript:void(0);" action-type="feed_list_forward"><i class="icon_forward" ></i>7<em class="line"></em></a></span>
+ <span><a href="javascript:void(0);" action-type="feed_list_comment"><i class="icon_review" ></i>1<em class="line"></em></a></span>
+ <span><a href="javascript:void(0);" action-type="feed_list_like" action-data="mid=4051201848608365"><i class="icon_like" ></i>3</a></span>
+ </div>
+ </div>
+</div>
+<div class="card item_weibo" action-data="mid=EltZw8LnE&uid=3300309615" action-type = "feed_list_item">
+ <div class="con">
+ <div class="s_weibo" action-type = "feed_list_con">
+ <div class="blk5"></div>
+ <div class="clearfix">
+ <div class="fl w_user_img"><img src="http://tva4.sinaimg.cn/crop.0.10.492.492.50/c4b6ba6fjw8f7pesktk5vj20do0e8my0.jpg"></div>
+ <div class="content">
+ <p class="tit_m">
+ 不如去背分析 <a href="javascript:void(0);" class="member"><i class="icon_member"></i></a>
+ </p>
+ <p class="time"><span>9分钟前</span><span>来自<a target="_blank" target="_blank" href="http://app.weibo.com/t/feed/3o33sO" rel="nofollow">iPhone 6</a></span></p>
+ </div>
+ </div>
+ <div class="blk5"></div>
+ <p><a class="a_topic W_linkb" href="http://huati.weibo.com/k/%E8%80%83%E7%A0%94%E6%89%93%E5%8D%A1?from=526"suda-data="key=tblog_search_weibo&value=weibo_feed_topic">#<em class="red">考研</em>打卡#</a> 今天做得超级烂，竟然萌生一种明年再考一次的想法。太可怕了，太可怕了，我怎么能有这样的想法！分分钟扇死自己</p>
+ 	 </div>
+ <div class="feeds clearfix">
+ <span><a href="javascript:void(0);" action-type="feed_list_forward"><i class="icon_forward" ></i>转发<em class="line"></em></a></span>
+ <span><a href="javascript:void(0);" action-type="feed_list_comment"><i class="icon_review" ></i>评论<em class="line"></em></a></span>
+ <span><a href="javascript:void(0);" action-type="feed_list_like" action-data="mid=4051201782088758"><i class="icon_like" ></i>赞</a></span>
+ </div>
+ </div>
+</div>
+<div class="card item_weibo" action-data="mid=EltZfgeb9&uid=5628914741" action-type = "feed_list_item">
+ <div class="con">
+ <div class="s_weibo" action-type = "feed_list_con">
+ <div class="blk5"></div>
+ <div class="clearfix">
+ <div class="fl w_user_img"><img src="http://tva3.sinaimg.cn/crop.0.0.1080.1080.50/0068WlRrjw8euja4rncbgj30u00u077n.jpg"></div>
+ <div class="content">
+ <p class="tit_m">
+ 玫瑰人生琼 
+ </p>
+ <p class="time"><span>10分钟前</span><span>来自<a target="_blank" target="_blank" href="http://app.weibo.com/t/feed/2Zmk5N" rel="nofollow">三星GALAXY A</a></span></p>
+ </div>
+ </div>
+ <div class="blk5"></div>
+ <p><em class="red">考研</em>政治怎么复习？</p>
+ <ul class="piclist" node-type="feed_list_piclist">
+ 	 <li>
+	 	 	 <!-- 九宫格 -->
+	 <!-- <div class="s_pic" style="width: 256px;"> -->
+	 <div class="media_box image_wall clearfix ">
+	 <ul>
+	 	 <li><img src="http://ww4.sinaimg.cn/thumb180/0068WlRrjw1falv6datosj30ic49zne7.jpg" action-type="showLargePic" action-data="ratio=0.11906909615732&pic_large=http://ww4.sinaimg.cn/large/0068WlRrjw1falv6datosj30ic49zne7.jpg"></li>
+	 	 <li><img src="http://ww4.sinaimg.cn/thumb180/0068WlRrjw1falv6hhbbdj30ic4ffh04.jpg" action-type="showLargePic" action-data="ratio=0.11500261369577&pic_large=http://ww4.sinaimg.cn/large/0068WlRrjw1falv6hhbbdj30ic4ffh04.jpg"></li>
+	 	 <li><img src="http://ww1.sinaimg.cn/thumb180/0068WlRrjw1falv6mv5p1j30ic3kzds3.jpg" action-type="showLargePic" action-data="ratio=0.14214947232393&pic_large=http://ww1.sinaimg.cn/large/0068WlRrjw1falv6mv5p1j30ic3kzds3.jpg"></li>
+	 	 <li><img src="http://ww3.sinaimg.cn/thumb180/0068WlRrjw1falv6okhrqj30le1c27am.jpg" action-type="showLargePic" action-data="ratio=0.44508670520231&pic_large=http://ww3.sinaimg.cn/large/0068WlRrjw1falv6okhrqj30le1c27am.jpg"></li>
+	 	 <li><img src="http://ww1.sinaimg.cn/thumb180/0068WlRrjw1falv6qt2ijj30le1tegu4.jpg" action-type="showLargePic" action-data="ratio=0.32710280373832&pic_large=http://ww1.sinaimg.cn/large/0068WlRrjw1falv6qt2ijj30le1tegu4.jpg"></li>
+	 	 <li><img src="http://ww2.sinaimg.cn/thumb180/0068WlRrjw1falv6u0lrgj30jq488nbp.jpg" action-type="showLargePic" action-data="ratio=0.12956204379562&pic_large=http://ww2.sinaimg.cn/large/0068WlRrjw1falv6u0lrgj30jq488nbp.jpg"></li>
+	 	 </ul>
+	 </div>
+	 <!-- /九宫格 --> 
+	 	 </li>
+ </ul> 	 </div>
+ <div class="feeds clearfix">
+ <span><a href="javascript:void(0);" action-type="feed_list_forward"><i class="icon_forward" ></i>转发<em class="line"></em></a></span>
+ <span><a href="javascript:void(0);" action-type="feed_list_comment"><i class="icon_review" ></i>评论<em class="line"></em></a></span>
+ <span><a href="javascript:void(0);" action-type="feed_list_like" action-data="mid=4051201613867755"><i class="icon_like" ></i>赞</a></span>
+ </div>
+ </div>
+</div>
+<div class="card item_weibo" action-data="mid=EltZbaiFs&uid=3923613133" action-type = "feed_list_item">
+ <div class="con">
+ <div class="s_weibo" action-type = "feed_list_con">
+ <div class="blk5"></div>
+ <div class="clearfix">
+ <div class="fl w_user_img"><img src="http://tva3.sinaimg.cn/crop.0.0.480.480.50/e9dd95cdjw8em1p48zqa5j20dc0dcaae.jpg"></div>
+ <div class="content">
+ <p class="tit_m">
+ 冬天的Snow爱吃肉 
+ </p>
+ <p class="time"><span>10分钟前</span><span>来自<a target="_blank" target="_blank" href="http://app.weibo.com/t/feed/158TxN" rel="nofollow">荣耀3X畅玩版</a></span></p>
+ </div>
+ </div>
+ <div class="blk5"></div>
+ <p>最后一次上<em class="red">考研</em>课了，不管怎么说，结束了一个阶段，最后就要靠自己了，F4的歌喉还是很不错的，希望能在直播中听到啊！<a href="http://m.weibo.cn/n/%E5%B1%A0%E5%B1%A0%E8%80%81%E5%B8%88" usercard="name=屠屠老师&refer_flag=1001030001" suda-data="key=tblog_search_weibo&value=weibo_feed_at" target="_blank">@屠屠老师</a> <a href="http://m.weibo.cn/n/%E8%80%83%E7%A0%94%E6%94%BF%E6%B2%BB%E5%BE%90%E6%B6%9B" usercard="name=考研政治徐涛&refer_flag=1001030001" suda-data="key=tblog_search_weibo&value=weibo_feed_at" target="_blank">@考研政治徐涛</a> <a class="a_topic W_linkb" href="http://huati.weibo.com/k/%E8%B4%B4%E7%AC%A6%E7%A5%88%E6%84%BF?from=526"suda-data="key=tblog_search_weibo&value=weibo_feed_topic">#贴符祈愿#</a></p>
+ <ul class="piclist" node-type="feed_list_piclist">
+ 	 <li>
+	 	 
+	 <div class="media_box image_wall clearfix image_wall_one">
+	 <ul><li>
+	 <img class="bigcursor"
+	 src="http://ww2.sinaimg.cn/bmiddle/e9dd95cdjw1falv6gx13vj20k00jatca.jpg" action-type="showLargePic" action-data="ratio=1.0374639769452&pic_large=http://ww2.sinaimg.cn/bmiddle/e9dd95cdjw1falv6gx13vj20k00jatca.jpg"/><img
+	 style="left: 39.5px; top: 52px; display: none;"
+	 src="http://img.t.sinajs.cn/t4/style/images/common/loading.gif"
+	 class="loading_gif" />
+	 </li></ul>
+	 </div>
+	 	 </li>
+ </ul> 	 </div>
+ <div class="feeds clearfix">
+ <span><a href="javascript:void(0);" action-type="feed_list_forward"><i class="icon_forward" ></i>转发<em class="line"></em></a></span>
+ <span><a href="javascript:void(0);" action-type="feed_list_comment"><i class="icon_review" ></i>评论<em class="line"></em></a></span>
+ <span><a href="javascript:void(0);" action-type="feed_list_like" action-data="mid=4051201572455042"><i class="icon_like" ></i>赞</a></span>
+ </div>
+ </div>
+</div>
+<div class="card item_weibo" action-data="mid=EltZ6rcl1&uid=2696574842" action-type = "feed_list_item">
+ <div class="con">
+ <div class="s_weibo" action-type = "feed_list_con">
+ <div class="blk5"></div>
+ <div class="clearfix">
+ <div class="fl w_user_img"><img src="http://tva1.sinaimg.cn/crop.0.0.996.996.50/a0ba777ajw8f9wg3cdafjj20ro0romyg.jpg"></div>
+ <div class="content">
+ <p class="tit_m">
+ kuokuo在学习呢 
+ </p>
+ <p class="time"><span>10分钟前</span><span>来自<a target="_blank" target="_blank" href="http://app.weibo.com/t/feed/3tcUuU" rel="nofollow">华为P8</a></span></p>
+ </div>
+ </div>
+ <div class="blk5"></div>
+ <p>不学spss会不会影响以后的学习、写论文和<em class="red">考研</em>啊<img src="http://img.t.sinajs.cn/t3/style/images/common/face/emimage/ee908d.png" width="20px" height="20px" />我真的不想学</p>
+ 	 </div>
+ <div class="feeds clearfix">
+ <span><a href="javascript:void(0);" action-type="feed_list_forward"><i class="icon_forward" ></i>转发<em class="line"></em></a></span>
+ <span><a href="javascript:void(0);" action-type="feed_list_comment"><i class="icon_review" ></i>评论<em class="line"></em></a></span>
+ <span><a href="javascript:void(0);" action-type="feed_list_like" action-data="mid=4051201526482287"><i class="icon_like" ></i>赞</a></span>
+ </div>
+ </div>
+</div>
+<div class="card item_weibo" action-data="mid=EltZ3ppkG&uid=2878181873" action-type = "feed_list_item">
+ <div class="con">
+ <div class="s_weibo" action-type = "feed_list_con">
+ <div class="blk5"></div>
+ <div class="clearfix">
+ <div class="fl w_user_img"><img src="http://tva4.sinaimg.cn/crop.0.0.512.512.50/ab8d91f1jw8f758x86nz5j20e80e8gm2.jpg"><i class="icon_vip_s icon_daren "></i></div>
+ <div class="content">
+ <p class="tit_m">
+ 比奇堡鱼鱼 <a href="javascript:void(0);" class="member"><i class="icon_member"></i></a>
+ </p>
+ <p class="time"><span>10分钟前</span><span>来自<a target="_blank" target="_blank" href="http://app.weibo.com/t/feed/4ACxed" rel="nofollow">iPad客户端</a></span></p>
+ </div>
+ </div>
+ <div class="blk5"></div>
+ <p>哎呀妈，在海天找的反人类的地窖冰窖一般的礼堂冻的折磨了一天现在坐在温暖的图书馆觉得脸发烫鼻子冒热气。。。估计多半是发烧了<img src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/70/88_org.gif" title="[拜拜]" alt="[拜拜]" type="face" /><img src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/70/88_org.gif" title="[拜拜]" alt="[拜拜]" type="face" />海天<em class="red">考研</em>我们真的可以说再见了<img src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/70/88_org.gif" title="[拜拜]" alt="[拜拜]" type="face" /><img src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/70/88_org.gif" title="[拜拜]" alt="[拜拜]" type="face" /><img src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/70/88_org.gif" title="[拜拜]" alt="[拜拜]" type="face" />学弟学妹们，关于是否还去海天，你们一定要慎重<img src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/5c/huanglianwx_org.gif" title="[微笑]" alt="[微笑]" type="face" /><img src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/5c/huanglianwx_org.gif" title="[微笑]" alt="[微笑]" type="face" /><img src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/5c/huanglianwx_org.gif" title="[微笑]" alt="[微笑]" type="face" /></p>
+ 	 </div>
+ <div class="feeds clearfix">
+ <span><a href="javascript:void(0);" action-type="feed_list_forward"><i class="icon_forward" ></i>转发<em class="line"></em></a></span>
+ <span><a href="javascript:void(0);" action-type="feed_list_comment"><i class="icon_review" ></i>评论<em class="line"></em></a></span>
+ <span><a href="javascript:void(0);" action-type="feed_list_like" action-data="mid=4051201496055582"><i class="icon_like" ></i>赞</a></span>
+ </div>
+ </div>
+</div>
+<div class="card item_weibo" action-data="mid=EltYz477f&uid=3835608141" action-type = "feed_list_item">
+ <div class="con">
+ <div class="s_weibo" action-type = "feed_list_con">
+ <div class="blk5"></div>
+ <div class="clearfix">
+ <div class="fl w_user_img"><img src="http://tva3.sinaimg.cn/crop.0.0.996.996.50/e49ebc4djw8f9ae3i2ntuj20ro0rpmz7.jpg"></div>
+ <div class="content">
+ <p class="tit_m">
+ 非典型双子杨小妍 
+ </p>
+ <p class="time"><span>12分钟前</span><span>来自<a target="_blank" target="_blank" href="http://app.weibo.com/t/feed/3q8xS0" rel="nofollow">魅蓝 Note2</a></span></p>
+ </div>
+ </div>
+ <div class="blk5"></div>
+ <p>本来计划着去重庆巡演，结果因为<em class="red">考研</em>就放弃了…作死的在这时间特别紧张的时刻，还是没忍住买了直播，因为我的❤已经飞去重庆了<img src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/73/wq_org.gif" title="[委屈]" alt="[委屈]" type="face" /><a class="a_topic W_linkb" href="http://huati.weibo.com/k/%E6%9D%8E%E5%AE%87%E6%98%A5%E9%87%8E%E8%9B%AE%E7%94%9F%E9%95%BF%E5%B7%A1%E6%BC%94?from=526"suda-data="key=tblog_search_weibo&value=weibo_feed_topic">#李宇春野蛮生长巡演#</a></p>
+ <ul class="piclist" node-type="feed_list_piclist">
+ 	 <li>
+	 	 
+	 <div class="media_box image_wall clearfix image_wall_one">
+	 <ul><li>
+	 <img class="bigcursor"
+	 src="http://ww3.sinaimg.cn/bmiddle/e49ebc4djw1falv4hlaasj20qo100jx9.jpg" action-type="showLargePic" action-data="ratio=0.74074074074074&pic_large=http://ww3.sinaimg.cn/bmiddle/e49ebc4djw1falv4hlaasj20qo100jx9.jpg"/><img
+	 style="left: 39.5px; top: 52px; display: none;"
+	 src="http://img.t.sinajs.cn/t4/style/images/common/loading.gif"
+	 class="loading_gif" />
+	 </li></ul>
+	 </div>
+	 	 </li>
+ </ul> 	 </div>
+ <div class="feeds clearfix">
+ <span><a href="javascript:void(0);" action-type="feed_list_forward"><i class="icon_forward" ></i>转发<em class="line"></em></a></span>
+ <span><a href="javascript:void(0);" action-type="feed_list_comment"><i class="icon_review" ></i>评论<em class="line"></em></a></span>
+ <span><a href="javascript:void(0);" action-type="feed_list_like" action-data="mid=4051201190980669"><i class="icon_like" ></i>赞</a></span>
+ </div>
+ </div>
+</div>
+<div class="card item_weibo" action-data="mid=EltYgDnXr&uid=2274490721" action-type = "feed_list_item">
+ <div class="con">
+ <div class="s_weibo" action-type = "feed_list_con">
+ <div class="blk5"></div>
+ <div class="clearfix">
+ <div class="fl w_user_img"><img src="http://tva4.sinaimg.cn/crop.0.0.180.180.50/8791f961jw1e8qgp5bmzyj2050050aa8.jpg"></div>
+ <div class="content">
+ <p class="tit_m">
+ 人小琳 
+ </p>
+ <p class="time"><span>12分钟前</span><span>来自<a target="_blank" target="_blank" href="http://app.weibo.com/t/feed/3o33sO" rel="nofollow">iPhone 6</a></span></p>
+ </div>
+ </div>
+ <div class="blk5"></div>
+ <p>刚才吃饭的时候跟我的学长唠了唠<em class="red">考研</em>的这段过程，我很荣幸地看着你从开始复习到现在的最后冲刺，加油吧，我陪你到最后。其实，我真的很羡慕你们几个，能够相互扶持坚持下来
+我不知道等我下学期开始奔跑的时候能不能碰到我的队友，我也不知道我是不是坚持到最后的那个人，但是从我决定不出国的时候，就</p>
+ 	 </div>
+ <div class="feeds clearfix">
+ <span><a href="javascript:void(0);" action-type="feed_list_forward"><i class="icon_forward" ></i>转发<em class="line"></em></a></span>
+ <span><a href="javascript:void(0);" action-type="feed_list_comment"><i class="icon_review" ></i>评论<em class="line"></em></a></span>
+ <span><a href="javascript:void(0);" action-type="feed_list_like" action-data="mid=4051201009386889"><i class="icon_like" ></i>1</a></span>
+ </div>
+ </div>
+</div>
+<div class="card item_weibo" action-data="mid=EltX9v5pA&uid=2799410672" action-type = "feed_list_item">
+ <div class="con">
+ <div class="s_weibo" action-type = "feed_list_con">
+ <div class="blk5"></div>
+ <div class="clearfix">
+ <div class="fl w_user_img"><img src="http://tva4.sinaimg.cn/crop.55.63.143.143.50/a6db9df0jw8esr2xl91eqj2076076wei.jpg"></div>
+ <div class="content">
+ <p class="tit_m">
+ 海上艺号Artyacht <a href="javascript:void(0);" class="member"><i class="icon_member"></i></a>
+ </p>
+ <p class="time"><span>15分钟前</span><span>来自<a target="_blank" href="http://app.weibo.com/t/feed/2Bvk1e" rel="nofollow">新浪博客</a></span></p>
+ </div>
+ </div>
+ <div class="blk5"></div>
+ <p>发表了博文《同济大学景观<em class="red">考研</em>快题冲刺加分方案【总平面表达解析】》导言推出景观快题“总平面解析”的考研快题技法后，小编收到了广大研友的积极留言，希望平台能继续推出有关景观快题考试技巧的文章案例；最后的阶</p>
+ <ul class="piclist" node-type="feed_list_piclist">
+ 	 	 	 	 <li>
+	 	 	 <div class="media_box spec_pic_a">
+	 	<a href="http://weibo.com/p/230418a6db9df00102wtih">
+	 	<div>
+	 	<img src="http://tc.sinaimg.cn/maxwidth.800/tc.service.weibo.com/mmbiz_qpic_cn/06c25b9277cd964af4bc56a9e7597872.jpg">
+	 	<i class="icon_flash"></i>
+	 	<span>海上艺号Artyacht</span>
+	 	</div>
+	 	<h1>同济大学景观考研快题冲刺加分方案【总平面表达解析】</h1>
+	 	</a>
+	 </div>
+	 	 	 </li>
+ </ul> 	 </div>
+ <div class="feeds clearfix">
+ <span><a href="javascript:void(0);" action-type="feed_list_forward"><i class="icon_forward" ></i>转发<em class="line"></em></a></span>
+ <span><a href="javascript:void(0);" action-type="feed_list_comment"><i class="icon_review" ></i>评论<em class="line"></em></a></span>
+ <span><a href="javascript:void(0);" action-type="feed_list_like" action-data="mid=4051200317408974"><i class="icon_like" ></i>赞</a></span>
+ </div>
+ </div>
+</div>
+<div class="card item_weibo" action-data="mid=EltWWdeQD&uid=5562833026" action-type = "feed_list_item">
+ <div class="con">
+ <div class="s_weibo" action-type = "feed_list_con">
+ <div class="blk5"></div>
+ <div class="clearfix">
+ <div class="fl w_user_img"><img src="http://tva4.sinaimg.cn/crop.0.0.1536.1536.50/0064t4Zkjw8faa6ajkhapj316o16oq6u.jpg"></div>
+ <div class="content">
+ <p class="tit_m">
+ 辰星_George 
+ </p>
+ <p class="time"><span>16分钟前</span><span>来自<a target="_blank" target="_blank" href="http://weibo.com/" rel="nofollow">iPad Air</a></span></p>
+ </div>
+ </div>
+ <div class="blk5"></div>
+ <p>装备准备好了。两只鬼子产的宝珠笔，若干来自轴心国的14k金笔，若干来自同盟国的18k金笔和黑墨水，两双数位板手套和一个<em class="red">考研</em>尺。来吧考研，看小爷neng不死你😆 </p>
+ <ul class="piclist" node-type="feed_list_piclist">
+ 	 <li>
+	 	 
+	 <div class="media_box image_wall clearfix image_wall_one">
+	 <ul><li>
+	 <img class="bigcursor"
+	 src="http://ww3.sinaimg.cn/bmiddle/0064t4Zkgw1falv0qgo7gj30qo0qojyf.jpg" action-type="showLargePic" action-data="ratio=1&pic_large=http://ww3.sinaimg.cn/bmiddle/0064t4Zkgw1falv0qgo7gj30qo0qojyf.jpg"/><img
+	 style="left: 39.5px; top: 52px; display: none;"
+	 src="http://img.t.sinajs.cn/t4/style/images/common/loading.gif"
+	 class="loading_gif" />
+	 </li></ul>
+	 </div>
+	 	 </li>
+ 	 	 	 	 <li>
+	 	 <span class="lbs">合肥·安徽建筑大学</span>
+	 <!--地理位置分享-->
+	 	 </li>
+ </ul> 	 </div>
+ <div class="feeds clearfix">
+ <span><a href="javascript:void(0);" action-type="feed_list_forward"><i class="icon_forward" ></i>转发<em class="line"></em></a></span>
+ <span><a href="javascript:void(0);" action-type="feed_list_comment"><i class="icon_review" ></i>评论<em class="line"></em></a></span>
+ <span><a href="javascript:void(0);" action-type="feed_list_like" action-data="mid=4051200183155343"><i class="icon_like" ></i>赞</a></span>
+ </div>
+ </div>
+</div>
+<div class="card item_weibo" action-data="mid=EltWykBsQ&uid=3844846854" action-type = "feed_list_item">
+ <div class="con">
+ <div class="s_weibo" action-type = "feed_list_con">
+ <div class="blk5"></div>
+ <div class="clearfix">
+ <div class="fl w_user_img"><img src="http://tva3.sinaimg.cn/crop.0.61.1478.1478.50/e52bb506jw8f8nf8sqimxj215218gadw.jpg"></div>
+ <div class="content">
+ <p class="tit_m">
+ 其实台下的观众就我一个livy 
+ </p>
+ <p class="time"><span>17分钟前</span><span>来自<a target="_blank" target="_blank" href="http://app.weibo.com/t/feed/1oul9z" rel="nofollow">iPad mini</a></span></p>
+ </div>
+ </div>
+ <div class="blk5"></div>
+ <p>凌晨睡觉的时候吗梦回初中，好像一切都没发生，我们还是那样没心没肺的开着玩笑，有人说所有的笑话都带有认真的成分，从一开始我就是认真的，只不过有人因为不在乎而假装不知道，祝<em class="red">考研</em>顺利～ </p>
+ <ul class="piclist" node-type="feed_list_piclist">
+ 	 <li>
+	 	 
+	 <div class="media_box image_wall clearfix image_wall_one">
+	 <ul><li>
+	 <img class="bigcursor"
+	 src="http://ww3.sinaimg.cn/bmiddle/e52bb506gw1faluztvogyj20zk0qo41y.jpg" action-type="showLargePic" action-data="ratio=1.3333333333333&pic_large=http://ww3.sinaimg.cn/bmiddle/e52bb506gw1faluztvogyj20zk0qo41y.jpg"/><img
+	 style="left: 39.5px; top: 52px; display: none;"
+	 src="http://img.t.sinajs.cn/t4/style/images/common/loading.gif"
+	 class="loading_gif" />
+	 </li></ul>
+	 </div>
+	 	 </li>
+ 	 	 	 	 <li>
+	 	 <span class="lbs">长沙·湖南商学院</span>
+	 <!--地理位置分享-->
+	 	 </li>
+ </ul> 	 </div>
+ <div class="feeds clearfix">
+ <span><a href="javascript:void(0);" action-type="feed_list_forward"><i class="icon_forward" ></i>转发<em class="line"></em></a></span>
+ <span><a href="javascript:void(0);" action-type="feed_list_comment"><i class="icon_review" ></i>1<em class="line"></em></a></span>
+ <span><a href="javascript:void(0);" action-type="feed_list_like" action-data="mid=4051199944910576"><i class="icon_like" ></i>1</a></span>
+ </div>
+ </div>
+</div>
+<div class="card item_weibo" action-data="mid=EltWxoHSb&uid=5896489299" action-type = "feed_list_item">
+ <div class="con">
+ <div class="s_weibo" action-type = "feed_list_con">
+ <div class="blk5"></div>
+ <div class="clearfix">
+ <div class="fl w_user_img"><img src="http://tva3.sinaimg.cn/crop.0.0.664.664.50/006r34e7jw8f2xt1y13r8j30ig0igaak.jpg"></div>
+ <div class="content">
+ <p class="tit_m">
+ 李yi要好好学英语 
+ </p>
+ <p class="time"><span>17分钟前</span><span>来自<a target="_blank" target="_blank" href="http://app.weibo.com/t/feed/4FjOH4" rel="nofollow">OPPO R9</a></span></p>
+ </div>
+ </div>
+ <div class="blk5"></div>
+ <p>今天拿到讲义翻开第一页就莫名想泪崩，想想准备<em class="red">考研</em>的这段时间觉得很多话想说可是一时之间却又不知道说什么，12.24马上就要来临，只愿一切付出都有收获<img src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/40/hearta_org.gif" title="[心]" alt="[心]" type="face" /><a href="http://m.weibo.cn/n/%E4%BD%95%E5%87%AF%E6%96%87" usercard="name=何凯文&refer_flag=1001030001" suda-data="key=tblog_search_weibo&value=weibo_feed_at" target="_blank">@何凯文</a></p>
+ <ul class="piclist" node-type="feed_list_piclist">
+ 	 <li>
+	 	 
+	 <div class="media_box image_wall clearfix image_wall_one">
+	 <ul><li>
+	 <img class="bigcursor"
+	 src="http://ww1.sinaimg.cn/bmiddle/006r34e7gw1falux3tf3dj30qo0zkjxk.jpg" action-type="showLargePic" action-data="ratio=0.75&pic_large=http://ww1.sinaimg.cn/bmiddle/006r34e7gw1falux3tf3dj30qo0zkjxk.jpg"/><img
+	 style="left: 39.5px; top: 52px; display: none;"
+	 src="http://img.t.sinajs.cn/t4/style/images/common/loading.gif"
+	 class="loading_gif" />
+	 </li></ul>
+	 </div>
+	 	 </li>
+ </ul> 	 </div>
+ <div class="feeds clearfix">
+ <span><a href="javascript:void(0);" action-type="feed_list_forward"><i class="icon_forward" ></i>转发<em class="line"></em></a></span>
+ <span><a href="javascript:void(0);" action-type="feed_list_comment"><i class="icon_review" ></i>评论<em class="line"></em></a></span>
+ <span><a href="javascript:void(0);" action-type="feed_list_like" action-data="mid=4051199935888523"><i class="icon_like" ></i>赞</a></span>
+ </div>
+ </div>
+</div>
+<div class="card item_weibo" action-data="mid=EltWnoKBC&uid=3743348413" action-type = "feed_list_item">
+ <div class="con">
+ <div class="s_weibo" action-type = "feed_list_con">
+ <div class="blk5"></div>
+ <div class="clearfix">
+ <div class="fl w_user_img"><img src="http://tva4.sinaimg.cn/crop.0.8.495.495.50/df1ef6bdjw8f9ewjcxm1dj20dr0e8aaf.jpg"></div>
+ <div class="content">
+ <p class="tit_m">
+ Y赢Y元 
+ </p>
+ <p class="time"><span>17分钟前</span><span>来自<a target="_blank" target="_blank" href="http://app.weibo.com/t/feed/5yiHuw" rel="nofollow">iPhone 6 Plus</a></span></p>
+ </div>
+ </div>
+ <div class="blk5"></div>
+ <p>看着同学都<em class="red">考研</em>了我也好紧张，当初被逼迫选择了一个自己一点都不喜欢的职业每次拿起书看都是一种折磨<img src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/9d/sada_org.gif" title="[泪]" alt="[泪]" type="face" />以后该怎么办……<img src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/0c/sw_org.gif" title="[失望]" alt="[失望]" type="face" /> </p>
+ <ul class="piclist" node-type="feed_list_piclist">
+ 	 	 	 	 <li>
+	 	 <span class="lbs">吉林·北华大学</span>
+	 <!--地理位置分享-->
+	 	 </li>
+ </ul> 	 </div>
+ <div class="feeds clearfix">
+ <span><a href="javascript:void(0);" action-type="feed_list_forward"><i class="icon_forward" ></i>转发<em class="line"></em></a></span>
+ <span><a href="javascript:void(0);" action-type="feed_list_comment"><i class="icon_review" ></i>4<em class="line"></em></a></span>
+ <span><a href="javascript:void(0);" action-type="feed_list_like" action-data="mid=4051199835899028"><i class="icon_like" ></i>赞</a></span>
+ </div>
+ </div>
+</div>
+	 </div>
+	 	 <!-- /实时微博 -->
+ <!-- 拆分微博 -->
+ <div class="card item_more" action-type="morefeedlist" action-data="page=2&key=考研&type=shishi" node-type="morefeedlist">
+ <div class="content">
+ <span><a href="javascript:void(0);">查看更多</a></span>
+ </div>
+</div>
+</div>
+<div id="pl_mobile_common_shishi"></div>
+<div id="pl_mobile_weibo_relation" class="clearfix"></div>
+  </div>
+</div>
+<div class="mb_search_b" id='pl_searchBottom'>
+ <table>
+ <tbody><tr>
+ <td class="mb_search_wrap">
+  <table class="mb_search"><tbody><tr>
+  <td><div class="s_input"><div class="relative"><input node-type = 'searchText' type="search" name="s" required="" value="考研"></div></div></td>
+  <td style="width:31px;"><i class="ico_search_g" node-type="searchBtn"></i></td>
+  </tr></tbody></table>
+ </td>
+ </tr>
+ </tbody></table> 
+</div>
+<div class="footer" id="pl_searchFooter">
+  <p class="tp" node-type="scrollToTop"><a href="javascript:void(0);"><i class="icon_top"></i>回顶部</a></p>
+  <p class="md"><a href="http://login.sina.com.cn/sso/logout.php?entry=search&r=" class="exit">退出当前帐号</a><span>&nbsp;(11122山顶上)</span></p><p class="bt">s.weibo.com 12-10 18:29</div>
+ <script src="http://js.t.sinajs.cn/t4/apps/search_m/js/pl/synthesize.js?version=20161207120500" type="text/javascript" ></script>
+</body>
+<!-- SUDA_CODE_START -->
+<noscript><img width="0" height="0" src="http://beacon.sina.com.cn/a.gif?noScript" border="0" alt="" /></noscript>
+<!-- SUDA_CODE_END -->
+</html>
